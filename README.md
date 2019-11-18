@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please feel free to clone and style this project at your own discretion!
 
 ## 1 To Clone or download this project simply run:
 
